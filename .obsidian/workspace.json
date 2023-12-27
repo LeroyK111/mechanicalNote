@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e35b8629a36fff9f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "readme.assets/Pasted image 20230730235044.png"
+              }
+            }
           }
         ]
       }
@@ -69,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cffc94a6d423b62d",
@@ -148,17 +157,19 @@
   },
   "active": "9bebcfe2bde248e6",
   "lastOpenFiles": [
+    "readme.assets/Pasted image 20231227180954.png",
     "readme.assets/Pasted image 20230730235044.png",
-    "readme.assets/Pasted image 20230730235011.png",
+    "README.md",
+    "readme.assets/Pasted image 20230730235011.png.md",
+    "readme.assets/Pasted image 20230730223623.png",
     "readme.assets/Pasted image 20230730234418.png",
+    "Pasted image 20230730235011.png",
     "readme.assets/Pasted image 20230730234354.png",
     "readme.assets/Pasted image 20230730234240.png",
     "readme.assets/Pasted image 20230730234229.png",
     "readme.assets/Pasted image 20230730234218.png",
     "readme.assets/Pasted image 20230730234212.png",
     "readme.assets/Pasted image 20230730234201.png",
-    "readme.assets/Pasted image 20230730234135.png",
-    "readme.assets/Pasted image 20230730233459.png",
     "readme.assets"
   ]
 }
