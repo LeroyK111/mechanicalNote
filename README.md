@@ -1,6 +1,7 @@
 # 机械电子工程
 **机械电子学**（英语：mechatronics），又称**机电整合学**、**机电工程学**，是一门利用微电子理论来控制机械装置的学科，也是一门[交叉学科](https://zh.wikipedia.org/wiki/%E4%BA%A4%E5%8F%89%E5%AD%A6%E7%A7%91 "交叉学科")，它的技术基础是来自[机械制造](https://zh.wikipedia.org/wiki/%E6%9C%BA%E6%A2%B0%E5%88%B6%E9%80%A0 "机械制造")和[微电子控制](https://zh.wikipedia.org/w/index.php?title=%E5%BE%AE%E9%9B%BB%E5%AD%90%E6%8E%A7%E5%88%B6&action=edit&redlink=1 "微电子控制（页面不存在）")，并配合[电脑](https://zh.wikipedia.org/wiki/%E7%94%B5%E8%84%91 "电脑")[软件](https://zh.wikipedia.org/wiki/%E8%BD%AF%E4%BB%B6 "软件")。
-![[readme.assets/Pasted image 20230730223623.png]]
+
+![](readme.assets/Pasted%20image%2020230730223623.png)
 ## 光机电整合
 光机电整合工程（英语：Optomechatronic Integration Engineering）就是在[微电子技术](https://zh.wikipedia.org/wiki/%E5%BE%AE%E7%94%B5%E5%AD%90%E5%AD%A6 "微电子学")向机械工业领域渗透过程中逐渐形成并发展起来的由[光学](https://zh.wikipedia.org/wiki/%E5%85%89%E5%AD%B8 "光学")、[光电子学](https://zh.wikipedia.org/wiki/%E5%85%89%E9%9B%BB%E5%AD%90%E5%AD%B8 "光电子学")、[微电子](https://zh.wikipedia.org/wiki/%E5%BE%AE%E7%94%B5%E5%AD%90 "微电子")、资讯和机械及其他相关技术交叉与融合而构成的综合性高新技术。
 
@@ -102,10 +103,11 @@
 
 #### 拉氏变换
 拉氏变换法。拉氏变换解常系数常微分方程。
-![[readme.assets/Pasted image 20230730235011.png]]
+![](readme.assets/Pasted%20image%2020231227180954.png)
 
 #### 函数和图
 输入、输出和传递函数。波德图、奈奎斯特图；一阶系统、二阶系统；频率响应，超越传递函数。
+
 ![[readme.assets/Pasted image 20230730235044.png]]
 
 
