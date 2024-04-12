@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cffc94a6d423b62d",
@@ -148,6 +147,9 @@
   },
   "active": "9bebcfe2bde248e6",
   "lastOpenFiles": [
+    "readme.assets/Pasted image 20240412160103.png",
+    "readme.assets/Pasted image 20240412160021.png",
+    "readme.assets/Pasted image 20240412155935.png",
     "readme.assets/Pasted image 20230730235044.png",
     "readme.assets/Pasted image 20230730235011.png",
     "readme.assets/Pasted image 20230730234418.png",
@@ -156,9 +158,6 @@
     "readme.assets/Pasted image 20230730234229.png",
     "readme.assets/Pasted image 20230730234218.png",
     "readme.assets/Pasted image 20230730234212.png",
-    "readme.assets/Pasted image 20230730234201.png",
-    "readme.assets/Pasted image 20230730234135.png",
-    "readme.assets/Pasted image 20230730233459.png",
     "readme.assets"
   ]
 }
