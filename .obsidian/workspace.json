@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "材料/塑料.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "塑料"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -85,8 +93,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
-              }
+                "file": "材料/塑料.md"
+              },
+              "icon": "lucide-list",
+              "title": "塑料 的大纲"
             }
           },
           {
@@ -97,7 +107,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "材料/塑料.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +126,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "塑料 的反向链接列表"
             }
           },
           {
@@ -123,10 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "材料/塑料.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "塑料 的出链列表"
             }
           }
         ]
@@ -147,17 +163,20 @@
   },
   "active": "9bebcfe2bde248e6",
   "lastOpenFiles": [
+    "readme.assets/Pasted image 20241112212927.png",
+    "readme.assets/Pasted image 20241112212904.png",
+    "readme.assets/Pasted image 20241112212731.png",
+    "readme.assets/Pasted image 20241112212711.png",
+    "readme.assets/Pasted image 20241112212652.png",
+    "readme.assets/Pasted image 20241112205452.png",
+    "readme.assets/Pasted image 20241112204600.png",
+    "README.md",
+    "材料/塑料.md",
+    "材料",
     "readme.assets/Pasted image 20240710204509.png",
     "readme.assets/Pasted image 20240710204457.png",
     "readme.assets/Pasted image 20240710204455.png",
     "readme.assets/Pasted image 20240710204418.png",
-    "readme.assets/Pasted image 20240710204356.png",
-    "readme.assets/Pasted image 20240710204346.png",
-    "readme.assets/Pasted image 20240710204326.png",
-    "readme.assets/Pasted image 20240412160103.png",
-    "readme.assets/Pasted image 20240412160021.png",
-    "readme.assets/Pasted image 20240412155935.png",
-    "readme.assets/Pasted image 20231227180954.png",
     "readme.assets"
   ]
 }
