@@ -18,11 +18,20 @@
 离不开CAD，CAE等之类的工业开发软件。想想自己年轻时手绘机械图纸痛苦啊。 。。
 
 #### 二维设计
+Autodesk CAD
 
 #### ★三维设计
 
-
+SolidWorks   (入门简单，通用）
+UG              （模具设计）
+CATIA          （汽车，飞机曲面设计）
+Proe/Creo   （电子产品）
 ### ★仿真
+
+ANSYS workbench (入门最简单,轻松实现多物理场耦合)
+热流体仿真:fluent, starccm
+结构仿真：ANSYS, ABAQUS
+前处理软件: ansa (最快捷,偏小众) , hypermesh, Icem (流体网格划分)
 
 ## 制造
 
